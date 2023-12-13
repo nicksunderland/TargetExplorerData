@@ -1,0 +1,5 @@
+^TargetExplorerData\.Rproj$
+^\.Rproj\.user$
+^data-raw$
+^LICENSE\.md$
+^inst/extdata
